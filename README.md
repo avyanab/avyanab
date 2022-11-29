@@ -2,6 +2,8 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 I'm transitioning from healthcare administration to tech and enjoying the journey! I'm currently learning all things ☁️cloud computing☁️ with a goal to become a DevOps/Cloud Engineer. Here are a few fun facts:
+
+
 🌎 - I love traveling, tropical beaches, and trying new food/drinks. I would go to Jamaica once a month if I could.
 🎶 - Most times you'll find me listening to Lofi Girl when I'm studying or working on projects. Other times, I switch between Coldplay & Miguel.
 🎦 - I absolutely enjoy Angelina Jolie's movies and I re-watch How to Get Away With Murder when I have free time.
