@@ -4,7 +4,7 @@
 I'm transitioning from healthcare administration to tech and enjoying the journey! I'm currently learning all things ☁️cloud computing☁️ with a goal to become a DevOps/Cloud Engineer. Here are a few fun facts:
 
 
-🌎 - I love traveling, tropical beaches, and trying new food/drinks. I would go to Jamaica once a month if I could.
+🌎 - I love traveling, tropical beaches, and trying new food/drinks (like a true earth sign ♉️). I would go to Jamaica once a month if I could.
 
 
 🎶 - Most times you'll find me listening to Lofi Girl when I'm studying or working on projects. Other times, I switch between Coldplay & Miguel.
