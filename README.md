@@ -1,19 +1,15 @@
 ### Welcome 👋 My name is Avyana!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-I'm transitioning from healthcare administration to ☁️**Cloud Engineering**☁️ and enjoying the journey! I've successfully completed linux essentials, currently learning how to use git and github, and looking forward to diving into **AWS**.
+I'm transitioning from healthcare administration to ☁️**Cloud Engineering**☁️ and enjoying the journey!
 
 Here are a few fun facts:
 
 
-🌎 - I love traveling, tropical beaches, and trying new food/drinks (like a true earth sign ♉️). I would go to Jamaica once a month if I could.
+🌎 - I love traveling, tropical beaches, and trying new food/drinks.
 
 
 🎶 - Most times you'll find me listening to Lofi Girl when I'm studying or working on projects. Other times, I switch between Coldplay & Miguel.
-
-
-💬 - Ask me about herbs 🌱. I love researching and learning about the healing power of plants.
-
 
 <ins>Feel free to connect with me here:</ins>
 
