@@ -1,7 +1,7 @@
 ### Welcome 👋 My name is Avyana!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-I'm transitioning from healthcare administration to ☁️**Cloud Engineering**☁️ and enjoying the journey!
+I made a career pivot from healthcare to ☁️**Cloud Engineering**☁️! This is only the beginning of my journey. Never stop learning and stay curious!
 
 Here are a few fun facts:
 
@@ -9,7 +9,7 @@ Here are a few fun facts:
 🌎 - I love traveling, tropical beaches, and trying new food/drinks.
 
 
-🎶 - Most times you'll find me listening to Lofi Girl when I'm studying or working on projects. Other times, I switch between Coldplay & Miguel.
+🎶 - Most times you'll find me listening to Lofi Girl when I'm studying or working on projects.
 
 <ins>Feel free to connect with me here:</ins>
 
@@ -17,7 +17,6 @@ Here are a few fun facts:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Avyana%20Baker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avyana-baker-89728290/)](https://www.linkedin.com/in/avyana-baker-89728290/)
 [![Medium Badge](https://img.shields.io/badge/Avyana%20Baker-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@avyanab)](https://medium.com/@avyanab)
-[![Gmail Badge](https://img.shields.io/badge/-avyanab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avyanab@gmail.com)](mailto:avyanab@gmail.com)
 
 ## ⚡ Technologies ⚡️
 
